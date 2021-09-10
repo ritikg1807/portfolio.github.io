@@ -1,0 +1,172 @@
+
+
+/* Start margin */
+.middle{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.middlemore{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+/* End margin */
+
+.navbar{
+    background-color: black;
+}
+
+/* Start Header */
+.back-image{
+    background-image: url(images/header.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    color: #ffffff; 
+    padding-top: 10%; 
+    padding-bottom: 10%;
+}
+/* End Header */
+
+
+.font1{
+    color: #6c6c6c;
+}
+.font2{
+    color:#fd735a;
+}
+
+/* start about */
+.about{
+    border-style: solid;
+    size: 1px; 
+    border-color: #6c6c6c;
+}
+/* End about */
+
+/* Start sevices */
+.service{
+    position: relative; 
+    padding-right: 10px;
+}
+.services{
+    left: 25%;
+    right: 20%;
+    height: 40px; 
+    width: 50%;
+    background:#ffffff;
+    position: absolute;
+    bottom: 40%; 
+    top: 42%;
+}
+/* End services */
+
+/* Start Resume */
+.resume{
+    background-color: #f9f9f9;
+}
+.resume-box{
+    background-color: #ffffff;
+}
+.duration{
+    background-color: #FD735A;
+}
+
+
+/* Start skills */
+.twoclr1 {
+    border-bottom: 5px solid #E9ECEF;
+    padding-right: 20px;
+
+  }
+  .twoclr1:after {
+    content: '';
+    display: block;
+    border-bottom: 5px solid #FD735A;
+    margin-top: 10px;
+    margin-bottom: -5px;
+    max-width: 390px;
+  }
+
+  .twoclr2 {
+    border-bottom: 5px solid #E9ECEF;
+ 
+  }
+  .twoclr2:after {
+    content: '';
+    display: block;
+    border-bottom: 5px solid #FD735A;
+    margin-top: 10px;
+    margin-bottom: -5px;
+    max-width: 290px;
+  }
+  .twoclr3 {
+    border-bottom: 5px solid #E9ECEF;
+ 
+  }
+  .twoclr3:after {
+    content: '';
+    display: block;
+    border-bottom: 5px solid #FD735A;
+    margin-top: 10px;
+    margin-bottom: -5px;
+    max-width: 330px;
+  }
+  .twoclr4 {
+    border-bottom: 5px solid #E9ECEF;
+
+  }
+  .twoclr4:after {
+    content: '';
+    display: block;
+    border-bottom: 5px solid #FD735A;
+    margin-top: 10px;
+    margin-bottom: -20px;
+    max-width: 370px;
+  }
+/* End Skills */
+/* End Resume */
+
+/* Start contact jumbotron */
+.contact{
+background-image: url(images/contact.png); 
+background-repeat: no-repeat; 
+background-size: cover; 
+color: #ffffff;
+}
+/* End Contact jumbotron */
+
+/* Start Client */
+.client{
+    background-color: #F7F7F7;
+}
+    
+/* End Client */
+
+.foot-nav{
+    color: white;
+    text-align: right;
+    padding-right: 11%;
+    padding-left: 0;
+    
+
+}
+.nav-link{
+    color:black;
+    display: inline-block;
+    padding: 5px;
+    margin: 0;
+}
+.ftnav{
+    list-style: none;
+    padding: 0;
+    margin:0;
+
+}
+.ftnav li{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    display: inline-block;
+
+}
